@@ -1,6 +1,17 @@
 
 /* Your CSS Code here. */
-table,tr,th{
+table{
+	border:2px solid;
+	 border-collapse: collapse;
+	width:100%
+	
+	}
+tr{
+	border:2px solid;
+	text-align:left;
+	
+	}
+th{
 	border:2px solid;
 	
 	}
